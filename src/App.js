@@ -5,8 +5,12 @@ const initialValue = [
     {id: uuidv4(), name: 'One'},
     {id: uuidv4(), name: 'Two'},
     {id: uuidv4(), name: 'Three'},
-    {id: uuidv4(), name: 'Four'},
-    {id: uuidv4(), name: 'Five'},
+    {id: uuidv4(), name: 'Six'},
+    {id: uuidv4(), name: '7'},
+    {id: uuidv4(), name: '8'},
+    {id: uuidv4(), name: '9'},
+    {id: uuidv4(), name: '10'},
+    {id: uuidv4(), name: '11'}
 ];
 
 function App() {
